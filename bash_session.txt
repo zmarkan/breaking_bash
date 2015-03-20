@@ -1,0 +1,38 @@
+Bash session notes
+http://www.oliverelliott.org/article/computing/tut_unix/
+
+cd, ls, pwd, manpage
+
+grep, pgrep
+
+pkill, killall
+
+chmod +x
+
+pipe, less
+
+curl https://mimictest-1.herokuapp.com/config_android.json | grep [Uu]rl
+
+tar https://xkcd.com/1168/ tar -xf
+
+Backspace --- delete previous character
+CTRL-d --- delete next character
+CTRL-k --- delete rest of line
+CTRL-a --- go to start of line
+CTRL-e --- go to end of line
+CTRL-b --- go backwards without deleting
+CTRL-f --- go forward without deleting
+
+alias, ln
+
+PATH, EDITOR, JAVA_HOME
+
+~/.bash_profile
+
+
+homebrew???
+
+
+
+
+docker run -it centos /bin/bash
